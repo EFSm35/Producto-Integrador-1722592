@@ -11,7 +11,7 @@ Este repositorio contiene las prácticas realizadas por Eduardo Flores Smith | M
 - [Escáner de Puertos](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Escan%C3%A9r%20de%20puertos)
 - [Envío de Correos](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Envio%20de%20correos)
 
-Cada sección contendrá sus README correspondientes.
+-Cada sección contendrá sus README correspondientes.
 
 ## Scripting en PowerShell
 En esta sección, se presentan algunos scripts de powershell los cuales analizan la subred del equipo.
