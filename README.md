@@ -8,7 +8,7 @@ Este repositorio contiene las prácticas realizadas por Eduardo Flores Smith | M
 - [Scripting en PowerShell](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Scripting%20en%20PowerShell)
 - [Scripting en Bash](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Scripting%20en%20Bash)
 - [Webscraping](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Webscraping%20y%20an%C3%A1lisis%20de%20metadata)
-- [Escáner de Puertos](escaner-puertos/README.md)
+- [Escáner de Puertos](https://github.com/EFSm35/Producto-Integrador-1722592/tree/main/Escan%C3%A9r%20de%20puertos)
 - [Envío de Correos](envio-correos/README.md)
 
 Cada sección contendrá sus README correspondientes.
